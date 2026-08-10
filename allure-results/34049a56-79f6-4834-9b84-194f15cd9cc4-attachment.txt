@@ -1,0 +1,14 @@
+Total Rows : 4
+Krishna morrthy 2026|CND|131 krishok@test.com
+Stage dropdown count: 1
+Available stages: [
+  '',
+  'Select Candidate Stage',
+  'Un-Qualified',
+  'Not Looking for a Job Change',
+  'Contact in Future',
+  'Candidate No Show',
+  'For Other Roles',
+  'Board Rejected'
+]
+Required stage: Contact in Future

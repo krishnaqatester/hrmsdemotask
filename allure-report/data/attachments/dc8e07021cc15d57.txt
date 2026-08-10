@@ -1,0 +1,10 @@
+Email valid: true
+Mobile valid: true
+Experience valid: true
+ERROR COUNT: 4
+ERROR MESSAGES: [
+  '',
+  'Email has already been taken.',
+  '',
+  '(Please check all * marked fields are mandatory)'
+]
